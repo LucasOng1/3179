@@ -44,6 +44,9 @@
             {"field": "Country Name", "type": "nominal", "title": "Country Name"},
             {"field": "2020", "type": "quantitative", "title": "Total Population density (per sq. km)"}
           ]
+        },
+        "title": {
+          "text": "Population of each country as of 2020"
         }
       },
       {
