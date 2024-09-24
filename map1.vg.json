@@ -1,0 +1,66 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 500,
+    "height": 300,
+    "projection": {
+      "type": "equalEarth"
+    },
+    "layer": [
+      {
+        "data": {
+          "url": "https://gist.githubusercontent.com/alexwebgr/10249781/raw/2df84591a9e1fb891bcfde3a3c41d6cfc70cb5ee/world-topo.json",
+          "format": {
+            "type": "topojson", "feature": "countries"
+          }
+        },
+        "mark": "geoshape",
+        "transform": [
+          {
+            "lookup": "properties.name",
+            "from": {
+              "data": {
+                "url": "https://raw.githubusercontent.com/LucasOng1/3179/refs/heads/main/populationdensity_filtered.csv",
+                "format": {
+                  "type": "csv"
+                }
+              },
+              "key": "Country Name",
+              "fields": ["Country Name", "2020"]
+            }
+          }
+        ],
+        "encoding": {
+          "color": {
+            "field": "2020",
+            "type": "quantitative",
+            "title": "Population density (per sq. km)",
+            "scale": {
+              "type": "threshold",
+              "range": ["#deebf7", "#c6dbef", "#9ecae1", "#6baed6", "#4292c6", "#2171b5", "#08519c", "#08306b"],
+              "domain": [50, 100, 250, 500, 750, 1000, 1200, 1400]
+            }
+          },
+          "tooltip": [
+            {"field": "Country Name", "type": "nominal", "title": "Country Name"},
+            {"field": "2020", "type": "quantitative", "title": "Total Population density (per sq. km)"}
+          ]
+        }
+      },
+      {
+        "mark": {
+          "type": "geoshape",
+          "filled": false,
+          "opacity": 0.8,
+          "color": "lightgrey"
+        },
+        "data": {
+          "url": "https://raw.githubusercontent.com/LucasOng1/3179/refs/heads/main/ne_110m_graticules_30.json",
+          "format": {
+            "type": "topojson",
+            "feature": "ne_110m_graticules_30"
+          }
+        }
+      }
+    ]
+  }
+  
