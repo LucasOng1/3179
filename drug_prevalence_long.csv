@@ -1,0 +1,73 @@
+Region or subregion,Drug Type,Measurement,Reading
+Africa,Cannabis,Thousands,53510
+Africa,Cannabis,Percentage,6.65
+Africa,Opioids,Thousands,10140
+Africa,Opioids,Percentage,1.26
+Africa,Opiates,Thousands,2000
+Africa,Opiates,Percentage,0.25
+Africa,Cocaine,Thousands,2300
+Africa,Cocaine,Percentage,0.29
+Africa,Amphetamines and prescription,Thousands,3050
+Africa,Amphetamines and prescription,Percentage,0.38
+Africa,Ecstasy,Thousands,2430
+Africa,Ecstasy,Percentage,0.3
+Americas,Cannabis,Thousands,78830
+Americas,Cannabis,Percentage,11.41
+Americas,Opioids,Thousands,10080
+Americas,Opioids,Percentage,1.46
+Americas,Opiates,Thousands,2960
+Americas,Opiates,Percentage,0.43
+Americas,Cocaine,Thousands,11680
+Americas,Cocaine,Percentage,1.69
+Americas,Amphetamines and prescription,Thousands,9920
+Americas,Amphetamines and prescription,Percentage,1.44
+Americas,Ecstasy,Thousands,3220
+Americas,Ecstasy,Percentage,0.47
+Asia,Cannabis,Thousands,62250
+Asia,Cannabis,Percentage,2
+Asia,Opioids,Thousands,34870
+Asia,Opioids,Percentage,1.12
+Asia,Opiates,Thousands,21880
+Asia,Opiates,Percentage,0.7
+Asia,Cocaine,Thousands,2930
+Asia,Cocaine,Percentage,0.09
+Asia,Amphetamines and prescription,Thousands,14200
+Asia,Amphetamines and prescription,Percentage,0.46
+Asia,Ecstasy,Thousands,10160
+Asia,Ecstasy,Percentage,0.33
+Europe,Cannabis,Thousands,30140
+Europe,Cannabis,Percentage,5.59
+Europe,Opioids,Thousands,3990
+Europe,Opioids,Percentage,0.74
+Europe,Opiates,Thousands,2960
+Europe,Opiates,Percentage,0.55
+Europe,Cocaine,Thousands,5710
+Europe,Cocaine,Percentage,1.06
+Europe,Amphetamines and prescription,Thousands,2770
+Europe,Amphetamines and prescription,Percentage,0.51
+Europe,Ecstasy,Thousands,3770
+Europe,Ecstasy,Percentage,0.7
+Oceania,Cannabis,Thousands,3420
+Oceania,Cannabis,Percentage,11.82
+Oceania,Opioids,Thousands,430
+Oceania,Opioids,Percentage,1.48
+Oceania,Opiates,Thousands,30
+Oceania,Opiates,Percentage,0.11
+Oceania,Cocaine,Thousands,840
+Oceania,Cocaine,Percentage,2.89
+Oceania,Amphetamines and prescription,Thousands,300
+Oceania,Amphetamines and prescription,Percentage,1.02
+Oceania,Ecstasy,Thousands,510
+Oceania,Ecstasy,Percentage,1.78
+Global,Cannabis,Thousands,228150
+Global,Cannabis,Percentage,4.41
+Global,Opioids,Thousands,59510
+Global,Opioids,Percentage,1.15
+Global,Opiates,Thousands,29840
+Global,Opiates,Percentage,0.58
+Global,Cocaine,Thousands,23460
+Global,Cocaine,Percentage,0.45
+Global,Amphetamines and prescription,Thousands,30240
+Global,Amphetamines and prescription,Percentage,0.58
+Global,Ecstasy,Thousands,20100
+Global,Ecstasy,Percentage,0.39
