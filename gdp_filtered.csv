@@ -38,7 +38,6 @@ Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,50960.8431174661
 Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,76610.647967975
 Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,394.856932975083
 Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1017.78776208855
-Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,NaN
 Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,14675.1508630779
 China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,7636.07434020616
 Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,8167.47284156277
@@ -104,7 +103,6 @@ Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1489.91972057277
 Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1740.35605234457
 "Korea, Dem. People's Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,NaN
 "Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,29252.9312377352
-Kosovo,XKX,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,3902.53084084218
 Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,43239.8826623799
 Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1279.77078445418
 Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1984.50828271186
@@ -216,55 +214,6 @@ West Bank and Gaza,PSE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,3352.112
 "Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1557.60140563182
 Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1724.57621968232
 Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1407.03429109916
-Africa Eastern and Southern,AFE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1678.55360976878
-Africa Western and Central,AFW,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,2248.51842565537
-Arab World,ARB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,7300.59977114317
-Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,11359.1648971172
-Central Europe and the Baltics,CEB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,14143.7397479462
-Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,3449.00559318256
-East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,9695.98311606398
-East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,6292.34645582796
-East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,6363.1236946339
-Euro area,EMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,39594.5952922423
-Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,26341.0777711528
-Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,7307.04619062948
-Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,10313.1152736828
-European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,35282.5164630827
-Fragile and conflict affected situations,FCS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,2396.43588704561
-Heavily indebted poor countries (HIPC),HPC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,982.631507838096
-High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,39280.6224525688
-IBRD only,IBD,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,5978.09034763574
-IDA & IBRD total,IBT,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,4837.15195672936
-IDA blend,IDB,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,2142.38203516532
-IDA only,IDX,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1068.89668940566
-IDA total,IDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1429.02963708014
-Late-demographic dividend,LTE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,8811.76064524285
-Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,10540.9906252007
-Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,9872.41105467888
-Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,10464.8864512803
-Least developed countries: UN classification,LDC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1033.33444875626
-Low & middle income,LMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,4401.68800338689
-Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,743.495153826225
-Lower middle income,LMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1888.1642285148
-Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,8403.78985559683
-Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,4385.60091414875
-Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,4397.36675865893
-Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,4789.17589092429
-North America,NAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,54877.3545553215
-Not classified,INX,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,NaN
-OECD members,OED,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,38112.0709045839
-Other small states,OSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,13014.8595970085
-Pacific island small states,PSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,3862.30253566876
-Post-demographic dividend,PST,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,43223.197534765
-Pre-demographic dividend,PRE,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1844.55491925459
-Small states,SST,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,11541.4191260915
-South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1490.80407578175
-South Asia (IDA & IBRD),TSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1490.80407578175
-Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1909.58989515741
-Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1908.35380304647
-Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,1909.58989515741
-Upper middle income,UMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,7722.45074898207
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2014,10918.5540956328
 Afghanistan,AFG,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,566.881129708434
 Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,3952.80357364813
 Algeria,DZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,4741.49977033558
@@ -304,7 +253,6 @@ Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,43594.1941045394
 Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,77295.8456647776
 Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,351.879754769554
 Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,774.411603124119
-Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,NaN
 Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,13567.3572174332
 China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,8016.44559489998
 Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,6228.65162110371
@@ -370,7 +318,6 @@ Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1496.65357260021
 Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1641.48097739743
 "Korea, Dem. People's Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,NaN
 "Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,28737.4391706499
-Kosovo,XKX,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,3520.78207462478
 Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,29315.1931019553
 Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1121.08269597662
 Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,2125.4589005996
@@ -482,55 +429,6 @@ West Bank and Gaza,PSE,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,3272.154
 "Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1488.4162886442
 Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1307.90964916032
 Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1410.32917348908
-Africa Eastern and Southern,AFE,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1498.80508358802
-Africa Western and Central,AFW,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1882.51880807768
-Arab World,ARB,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,6258.60722652973
-Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,11629.1207744449
-Central Europe and the Baltics,CEB,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,12528.0826430876
-Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,3234.22594362502
-East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,9586.05662481986
-East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,6499.96372015715
-East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,6572.88955264077
-Euro area,EMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,34118.3659418664
-Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,22579.1836978638
-Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,6312.15034167041
-Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,8014.50415079485
-European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,30487.6523692732
-Fragile and conflict affected situations,FCS,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1845.31230428842
-Heavily indebted poor countries (HIPC),HPC,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,917.721459685355
-High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,36482.9965260467
-IBRD only,IBD,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,5541.33759395986
-IDA & IBRD total,IBT,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,4484.4893837025
-IDA blend,IDB,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1993.78936181267
-IDA only,IDX,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1042.15535457657
-IDA total,IDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1360.96217666755
-Late-demographic dividend,LTE,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,8212.74329215127
-Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,8719.62575346093
-Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,8297.30225777455
-Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,8577.804211342
-Least developed countries: UN classification,LDC,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,968.123889466947
-Low & middle income,LMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,4214.45758022272
-Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,714.771564692477
-Lower middle income,LMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1856.92603274113
-Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,7266.6592292899
-Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,3862.5722046145
-Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,3869.3156107047
-Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,4590.10014047065
-North America,NAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,55701.8124434679
-Not classified,INX,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,NaN
-OECD members,OED,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,35733.3440313659
-Other small states,OSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,11597.2856104624
-Pacific island small states,PSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,3735.49952275424
-Post-demographic dividend,PST,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,40717.0989510662
-Pre-demographic dividend,PRE,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1524.75727930826
-Small states,SST,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,10568.2406997506
-South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1539.5941449215
-South Asia (IDA & IBRD),TSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1539.5941449215
-Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1654.27280706483
-Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1653.00584689775
-Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,1654.27280706483
-Upper middle income,UMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,7372.17996247398
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2015,10177.8905141454
 Afghanistan,AFG,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,523.053011984748
 Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,4124.05538986272
 Algeria,DZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,4481.08196153066
@@ -570,7 +468,6 @@ Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,42314.0615817218
 Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,78858.2796562866
 Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,372.135456093031
 Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,691.980077427731
-Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,55411.7047967069
 Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,13788.2400083224
 China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,8094.39016735149
 Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,5936.26102166829
@@ -636,7 +533,6 @@ Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1562.07661862777
 Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1743.76286839846
 "Korea, Dem. People's Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,NaN
 "Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,29280.4403170048
-Kosovo,XKX,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,3759.47285515454
 Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,27026.7729279269
 Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1120.66705800127
 Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,2309.04999818095
@@ -748,55 +644,6 @@ West Bank and Gaza,PSE,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,3527.613
 "Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1069.81700944581
 Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1249.92314348406
 Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1421.78779140568
-Africa Eastern and Southern,AFE,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1346.30128120779
-Africa Western and Central,AFW,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1648.92026894717
-Arab World,ARB,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,6022.88281755523
-Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,11175.5737188632
-Central Europe and the Baltics,CEB,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,12785.3859233633
-Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,3284.23162293425
-East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,9856.66562356527
-East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,6592.51791291846
-East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,6666.30238489789
-Euro area,EMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,34889.6717204536
-Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,22398.149896359
-Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,6006.36708907309
-Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,7662.53290925723
-European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,31174.7535083936
-Fragile and conflict affected situations,FCS,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1663.08517085287
-Heavily indebted poor countries (HIPC),HPC,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,901.324893112879
-High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,36993.533269398
-IBRD only,IBD,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,5528.04543069571
-IDA & IBRD total,IBT,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,4456.76020150654
-IDA blend,IDB,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1826.22694665161
-IDA only,IDX,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1077.4759697027
-IDA total,IDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1327.72429067074
-Late-demographic dividend,LTE,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,8180.74109097909
-Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,8417.3721092089
-Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,7968.02217920098
-Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,8258.39951873525
-Least developed countries: UN classification,LDC,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,961.052941601299
-Low & middle income,LMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,4202.3081380546
-Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,642.048021882497
-Lower middle income,LMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1906.05841740326
-Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,7204.57374392984
-Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,3887.0200728029
-Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,3891.14303171761
-Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,4589.78770455454
-North America,NAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,56617.8738074516
-Not classified,INX,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,NaN
-OECD members,OED,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,36197.2181448972
-Other small states,OSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,12007.5839403413
-Pacific island small states,PSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,3878.32501790946
-Post-demographic dividend,PST,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,41461.9972670039
-Pre-demographic dividend,PRE,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1320.44521076183
-Small states,SST,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,10806.5478125662
-South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1675.52326892233
-South Asia (IDA & IBRD),TSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1675.52326892233
-Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1468.9014601283
-Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1467.52177135115
-Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,1468.9014601283
-Upper middle income,UMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,7340.457653738
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2016,10224.0659312632
 Afghanistan,AFG,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,526.140801025756
 Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,4531.03220675893
 Algeria,DZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,4615.86874364885
@@ -836,7 +683,6 @@ Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,45129.628116623
 Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,81255.1122691866
 Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,414.74032227842
 Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,662.897472963315
-Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,54904.0996682551
 Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,15034.0584350711
 China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,8817.04560829162
 Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,6449.97098770131
@@ -902,7 +748,6 @@ Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1675.98842173012
 Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1852.99234427752
 "Korea, Dem. People's Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,NaN
 "Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,31600.7358741365
-Kosovo,XKX,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,4009.3538108854
 Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,29258.266295535
 Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1242.77022029305
 Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,2439.46241167184
@@ -1014,55 +859,6 @@ West Bank and Gaza,PSE,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,3620.360
 "Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,893.716500927815
 Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1495.75213841021
 Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1192.10701198862
-Africa Eastern and Southern,AFE,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1485.7535786147
-Africa Western and Central,AFW,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1590.5557849502
-Arab World,ARB,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,6068.60300810316
-Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,11576.2769685123
-Central Europe and the Baltics,CEB,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,14225.8773247545
-Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,3504.86445468793
-East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,10454.5358035249
-East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,7151.27470673284
-East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,7231.05858273787
-Euro area,EMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,36878.9370566652
-Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,23670.8127114864
-Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,6111.39433717826
-Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,8554.01109678492
-European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,33091.3890251906
-Fragile and conflict affected situations,FCS,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1690.94404160881
-Heavily indebted poor countries (HIPC),HPC,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,940.767399878295
-High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,38707.9315420479
-IBRD only,IBD,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,6048.21917294317
-IDA & IBRD total,IBT,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,4837.06302141945
-IDA blend,IDB,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1760.54249485162
-IDA only,IDX,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1135.9391535687
-IDA total,IDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1344.21682075242
-Late-demographic dividend,LTE,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,9020.04276617454
-Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,9256.11626423804
-Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,8788.65434317749
-Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,9110.90175054244
-Least developed countries: UN classification,LDC,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1026.5687075244
-Low & middle income,LMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,4528.2851864622
-Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,654.651268016387
-Lower middle income,LMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,2018.06133276216
-Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,7380.40569942152
-Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,3821.91888653613
-Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,3824.23813565368
-Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,4956.25071427331
-North America,NAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,58796.4689001287
-Not classified,INX,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,NaN
-OECD members,OED,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,37576.6175060967
-Other small states,OSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,13168.3078074236
-Pacific island small states,PSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,4142.26772455685
-Post-demographic dividend,PST,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,43088.4274179433
-Pre-demographic dividend,PRE,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1340.65197800485
-Small states,SST,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,11730.8818238776
-South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1887.87828259142
-South Asia (IDA & IBRD),TSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1887.87828259142
-Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1528.22459360107
-Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1526.78737212966
-Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,1528.22459360107
-Upper middle income,UMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,7988.4308620841
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2017,10762.8045848545
 Afghanistan,AFG,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,492.090630986151
 Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,5287.66080067575
 Algeria,DZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,4640.31414537956
@@ -1102,7 +898,6 @@ Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,46539.1761570405
 Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,85231.7751511594
 Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,435.93229660798
 Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,720.265101427085
-Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,59433.3732360298
 Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,15820.0333659534
 China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,9905.40638304527
 Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,6782.03792028237
@@ -1168,7 +963,6 @@ Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1845.7834137515
 Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1912.7868264794
 "Korea, Dem. People's Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,NaN
 "Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,33447.1562836166
-Kosovo,XKX,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,4384.18868045931
 Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,32012.1875625902
 Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1308.13978544561
 Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,2553.36041796394
@@ -1280,55 +1074,6 @@ West Bank and Gaza,PSE,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,3562.330
 "Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,701.714864673796
 Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1475.19988338535
 Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,2269.17701232332
-Africa Eastern and Southern,AFE,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1558.61207925907
-Africa Western and Central,AFW,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1735.44583276662
-Arab World,ARB,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,6624.83465856668
-Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,11845.703369406
-Central Europe and the Baltics,CEB,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,16081.9110638536
-Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,3499.78425455711
-East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,11312.9085413924
-East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,7944.75974327118
-East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,8033.2066478975
-Euro area,EMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,39754.435465931
-Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,25255.0647194697
-Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,5957.82642405214
-Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,8883.5015112008
-European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,35752.5873421988
-Fragile and conflict affected situations,FCS,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1852.26631004128
-Heavily indebted poor countries (HIPC),HPC,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,977.2792262072
-High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,40958.3706534705
-IBRD only,IBD,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,6378.53885411053
-IDA & IBRD total,IBT,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,5088.01277247711
-IDA blend,IDB,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1884.99739961197
-IDA only,IDX,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1181.41399480963
-IDA total,IDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1415.58155009747
-Late-demographic dividend,LTE,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,9837.55232050728
-Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,8978.11590246576
-Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,8446.45505331899
-Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,8822.12438662918
-Least developed countries: UN classification,LDC,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1066.18135482911
-Low & middle income,LMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,4754.57584654863
-Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,662.943016876892
-Lower middle income,LMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,2089.07047033603
-Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,7607.52262859622
-Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,3568.19940862031
-Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,3568.26749674958
-Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,5213.90230128235
-North America,NAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,61512.706498042
-Not classified,INX,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,NaN
-OECD members,OED,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,39507.1176312125
-Other small states,OSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,14244.5883875934
-Pacific island small states,PSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,4298.99819904991
-Post-demographic dividend,PST,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,45491.2207882764
-Pre-demographic dividend,PRE,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1452.93366963466
-Small states,SST,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,12560.1901388749
-South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1920.13115754982
-South Asia (IDA & IBRD),TSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1920.13115754982
-Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1630.26588268491
-Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1628.7767721828
-Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,1630.26588268491
-Upper middle income,UMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,8461.55538976532
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2018,11315.083985152
 Afghanistan,AFG,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,497.741431256813
 Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,5396.2142432843
 Algeria,DZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,4530.10174483631
@@ -1368,7 +1113,6 @@ Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,46352.8693445211
 Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,89846.3210991824
 Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,426.408753120209
 Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,701.621201027424
-Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,58564.3500973853
 Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,14616.2072513761
 China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,10143.8602206165
 Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,6436.50921493811
@@ -1434,7 +1178,6 @@ Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1970.08007048615
 Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1745.7324153971
 "Korea, Dem. People's Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,NaN
 "Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,31902.4169048194
-Kosovo,XKX,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,4416.02925267842
 Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,31230.1729499142
 Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1451.51563835807
 Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,2598.50579475158
@@ -1546,55 +1289,6 @@ West Bank and Gaza,PSE,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,3656.858
 "Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,693.816507640113
 Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1268.12094056241
 Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1421.86859641758
-Africa Eastern and Southern,AFE,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1508.48688648948
-Africa Western and Central,AFW,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1813.60914568405
-Arab World,ARB,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,6565.98083975861
-Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,12173.610811624
-Central Europe and the Baltics,CEB,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,16355.8581493383
-Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,3528.99645119156
-East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,11484.3410118407
-East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,8171.96552369406
-East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,8262.81763368418
-Euro area,EMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,38904.6070562194
-Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,24867.4720139645
-Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,6022.63238606854
-Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,9022.69589831855
-European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,35080.9147971763
-Fragile and conflict affected situations,FCS,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1923.17068917178
-Heavily indebted poor countries (HIPC),HPC,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,985.590876409077
-High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,41188.7704617624
-IBRD only,IBD,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,6465.81328082011
-IDA & IBRD total,IBT,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,5144.37243935275
-IDA blend,IDB,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1883.54621067899
-IDA only,IDX,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1214.9263173816
-IDA total,IDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1437.01918707643
-Late-demographic dividend,LTE,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,9976.98358578555
-Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,8771.14453844381
-Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,8245.29566055529
-Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,8596.41766087617
-Least developed countries: UN classification,LDC,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1098.40753887349
-Low & middle income,LMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,4810.52084108954
-Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,686.357799279353
-Lower middle income,LMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,2162.54888541798
-Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,7501.9689641949
-Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,3536.33661519656
-Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,3534.92693633058
-Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,5281.7836025908
-North America,NAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,63584.0377419401
-Not classified,INX,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,NaN
-OECD members,OED,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,39685.5608569649
-Other small states,OSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,14212.9139759241
-Pacific island small states,PSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,4230.5980928619
-Post-demographic dividend,PST,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,45822.0716593778
-Pre-demographic dividend,PRE,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1490.50456175284
-Small states,SST,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,12581.2230617678
-South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1965.09061363678
-South Asia (IDA & IBRD),TSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1965.09061363678
-Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1632.082811636
-Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1630.55857440587
-Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,1632.082811636
-Upper middle income,UMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,8547.70630387592
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2019,11358.4786578376
 Afghanistan,AFG,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,512.055098005672
 Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,5343.0377039956
 Algeria,DZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,3794.40952448639
@@ -1634,7 +1328,6 @@ Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,43537.839298904
 Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,84018.3325792543
 Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,435.469247800022
 Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,643.772215694009
-Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,54357.9344480583
 Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,13162.5913519707
 China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,10408.7195541075
 Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,5308.16470717512
@@ -1700,7 +1393,6 @@ Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1936.25075454374
 Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1763.15507074083
 "Korea, Dem. People's Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,NaN
 "Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,31721.2989141857
-Kosovo,XKX,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,4310.9340020057
 Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,24656.4337134064
 Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1256.92922601263
 Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,2593.35571817336
@@ -1812,55 +1504,6 @@ West Bank and Gaza,PSE,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,3233.568
 "Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,626.309168909111
 Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,958.264900505992
 Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1372.69667433317
-Africa Eastern and Southern,AFE,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1356.08887141531
-Africa Western and Central,AFW,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1688.47087082362
-Arab World,ARB,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,5735.50986687093
-Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,10101.7904602533
-Central Europe and the Baltics,CEB,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,16302.7546246465
-Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,3254.22794317044
-East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,11487.8328132182
-East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,8262.92725428299
-East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,8354.73673784022
-Euro area,EMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,37915.3833633908
-Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,23994.9286739351
-Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,5738.25499247106
-Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,8437.72850580865
-European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,34357.1199881912
-Fragile and conflict affected situations,FCS,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1725.7217597946
-Heavily indebted poor countries (HIPC),HPC,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,968.133367537043
-High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,40023.7382985043
-IBRD only,IBD,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,6185.51925977404
-IDA & IBRD total,IBT,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,4907.28699204586
-IDA blend,IDB,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1727.91170329901
-IDA only,IDX,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1201.23401871581
-IDA total,IDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1375.88014891477
-Late-demographic dividend,LTE,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,9719.11873198067
-Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,7386.13505696924
-Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,6882.22060784085
-Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,7183.58454333269
-Least developed countries: UN classification,LDC,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1082.9929209144
-Low & middle income,LMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,4608.95487620396
-Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,659.290978844395
-Lower middle income,LMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,2065.92318543948
-Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,6665.21717740337
-Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,3215.95906834746
-Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,3215.7512499761
-Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,5068.53998098794
-North America,NAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,62186.9899064628
-Not classified,INX,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,NaN
-OECD members,OED,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,38592.7778890311
-Other small states,OSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,12862.5340808613
-Pacific island small states,PSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,3703.05219632562
-Post-demographic dividend,PST,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,44745.8899129628
-Pre-demographic dividend,PRE,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1330.58963017454
-Small states,SST,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,11219.28661025
-South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1855.54425205771
-South Asia (IDA & IBRD),TSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1855.54425205771
-Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1490.67810597184
-Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1489.60464113599
-Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,1490.67810597184
-Upper middle income,UMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,8239.11108405913
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2020,10941.6626777859
 Afghanistan,AFG,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,355.777826392648
 Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,6377.20309553753
 Algeria,DZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,4216.2512851303
@@ -1900,7 +1543,6 @@ Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,52496.8441693242
 Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,88940.1565924825
 Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,461.137510956047
 Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,685.690314996618
-Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,64502.5311794273
 Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,16185.9147709548
 China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,12617.5051041181
 Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,6182.9559438651
@@ -1966,7 +1608,6 @@ Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,2069.66112881918
 Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,2244.11073068747
 "Korea, Dem. People's Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,NaN
 "Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,35125.5224984723
-Kosovo,XKX,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,5270.55064003061
 Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,33358.4631538575
 Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1365.50830399287
 Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,2535.62343439717
@@ -2078,55 +1719,6 @@ West Bank and Gaza,PSE,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,3678.635
 "Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,583.849041342565
 Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1134.71345415843
 Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1773.92041088078
-Africa Eastern and Southern,AFE,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1545.95669660381
-Africa Western and Central,AFW,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1769.17185266776
-Arab World,ARB,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,6503.79337634305
-Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,11732.8975463126
-Central Europe and the Baltics,CEB,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,18816.1336904293
-Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,3743.85887403193
-East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,13141.5286612157
-East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,9813.48481652444
-East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,9922.57074410658
-Euro area,EMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,42527.524210531
-Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,27409.9227679737
-Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,6620.20379563516
-Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,9985.47709265927
-European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,38720.8751728955
-Fragile and conflict affected situations,FCS,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1792.92066416628
-Heavily indebted poor countries (HIPC),HPC,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1047.734015017
-High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,44840.3585005322
-IBRD only,IBD,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,7301.908085568
-IDA & IBRD total,IBT,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,5731.30618464805
-IDA blend,IDB,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1851.4710158931
-IDA only,IDX,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1274.07782915018
-IDA total,IDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1465.2729133797
-Late-demographic dividend,LTE,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,11567.2202575024
-Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,8516.30960050376
-Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,7916.81292030137
-Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,8304.28022515683
-Least developed countries: UN classification,LDC,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1152.85242267264
-Low & middle income,LMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,5370.44444121979
-Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,680.657477755926
-Lower middle income,LMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,2311.12106091849
-Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,7775.55195119201
-Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,3672.55692035451
-Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,3672.48448675069
-Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,5925.7709749664
-North America,NAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,69147.0491707873
-Not classified,INX,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,NaN
-OECD members,OED,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,42930.7751337563
-Other small states,OSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,14917.5933984416
-Pacific island small states,PSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,3648.41603801244
-Post-demographic dividend,PST,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,49781.6773081209
-Pre-demographic dividend,PRE,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1420.14132754964
-Small states,SST,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,12920.699840484
-South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,2145.14846632702
-South Asia (IDA & IBRD),TSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,2145.14846632702
-Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1636.32385226633
-Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1635.20218922633
-Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,1636.32385226633
-Upper middle income,UMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,9778.05333809636
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2021,12362.4642088343
 Afghanistan,AFG,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,352.603733092107
 Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,6810.11404104233
 Algeria,DZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,5023.25293164928
@@ -2166,7 +1758,6 @@ Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,55509.393176404
 Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,96073.7635946963
 Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,427.058096191269
 Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,699.463254485574
-Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,64501.2742419548
 Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,15411.1739539112
 China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,12662.5831692254
 Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,6657.08669677355
@@ -2232,7 +1823,6 @@ Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,2099.29856841025
 Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,2061.39304132408
 "Korea, Dem. People's Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,NaN
 "Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,32394.6833725203
-Kosovo,XKX,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,5290.97739696474
 Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,42823.8278348699
 Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1739.79999970559
 Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,2054.43078086496
@@ -2344,55 +1934,6 @@ West Bank and Gaza,PSE,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,3799.955
 "Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,698.850349965249
 Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1456.90157026157
 Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1676.82148896788
-Africa Eastern and Southern,AFE,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1642.43203899493
-Africa Western and Central,AFW,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1788.8753472127
-Arab World,ARB,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,7776.62937958481
-Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,15296.212982156
-Central Europe and the Baltics,CEB,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,19414.7416594388
-Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,4099.07591276369
-East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,12909.9187395962
-East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,9916.80434352001
-East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,10027.1765277205
-Euro area,EMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,40835.654761862
-Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,27567.4143997687
-Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,7302.23861126112
-Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,11413.9150111898
-European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,37466.6963511535
-Fragile and conflict affected situations,FCS,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1913.3742283108
-Heavily indebted poor countries (HIPC),HPC,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1110.1304329994
-High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,46165.6150408536
-IBRD only,IBD,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,7681.29525722277
-IDA & IBRD total,IBT,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,6006.27309700773
-IDA blend,IDB,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1942.51277029827
-IDA only,IDX,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1339.94195382427
-IDA total,IDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1539.29371688164
-Late-demographic dividend,LTE,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,12068.2132845942
-Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,9618.70743198646
-Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,9033.75537958903
-Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,9388.72096989775
-Least developed countries: UN classification,LDC,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1267.00441526421
-Low & middle income,LMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,5582.45257367252
-Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,753.954266799717
-Lower middle income,LMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,2430.52646293958
-Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,9116.77278273094
-Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,4147.97463172171
-Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,4152.18363676059
-Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,6165.89619410795
-North America,NAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,74980.8332051402
-Not classified,INX,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,NaN
-OECD members,OED,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,43681.7314639082
-Other small states,OSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,15844.3700627197
-Pacific island small states,PSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,3909.14166460187
-Post-demographic dividend,PST,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,50759.6274098503
-Pre-demographic dividend,PRE,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1579.54435449704
-Small states,SST,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,14176.6140571601
-South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,2254.56195751261
-South Asia (IDA & IBRD),TSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,2254.56195751261
-Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1701.71726642046
-Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1700.18641364767
-Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,1701.71726642046
-Upper middle income,UMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,10190.883998462
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2022,12730.1571671098
 Afghanistan,AFG,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,NaN
 Albania,ALB,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,8367.77573143421
 Algeria,DZA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,5260.20624980797
@@ -2432,7 +1973,6 @@ Canada,CAN,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,53371.6974319701
 Cayman Islands,CYM,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,NaN
 Central African Republic,CAF,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,445.028195988605
 Chad,TCD,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,719.384875157521
-Channel Islands,CHI,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,NaN
 Chile,CHL,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,17093.2419713921
 China,CHN,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,12614.0609948923
 Colombia,COL,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,6979.72513470377
@@ -2498,7 +2038,6 @@ Kenya,KEN,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1949.89896909713
 Kiribati,KIR,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,2089.91016071918
 "Korea, Dem. People's Rep.",PRK,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,NaN
 "Korea, Rep.",KOR,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,33121.3712885508
-Kosovo,XKX,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,5943.12571420876
 Kuwait,KWT,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,37533.2177177327
 Kyrgyz Republic,KGZ,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1969.86648107793
 Lao PDR,LAO,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,2075.40141406441
@@ -2610,52 +2149,3 @@ West Bank and Gaza,PSE,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,3367.606
 "Yemen, Rep.",YEM,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,533.367123496464
 Zambia,ZMB,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1369.12936484937
 Zimbabwe,ZWE,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1592.41657368542
-Africa Eastern and Southern,AFE,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1672.5059574692
-Africa Western and Central,AFW,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1584.33328485465
-Arab World,ARB,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,7377.39893629449
-Caribbean small states,CSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,16810.93501732
-Central Europe and the Baltics,CEB,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,22494.4806637564
-Early-demographic dividend,EAR,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,4258.91763675723
-East Asia & Pacific,EAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,12927.6838082962
-East Asia & Pacific (excluding high income),EAP,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,9912.69685076252
-East Asia & Pacific (IDA & IBRD countries),TEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,10023.2019952135
-Euro area,EMU,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,44368.5755448892
-Europe & Central Asia,ECS,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,29483.4414501406
-Europe & Central Asia (excluding high income),ECA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,8479.05683108165
-Europe & Central Asia (IDA & IBRD countries),TEC,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,11952.6880645648
-European Union,EUU,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,40823.8762634762
-Fragile and conflict affected situations,FCS,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1828.70835941923
-Heavily indebted poor countries (HIPC),HPC,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1245.01965554275
-High income,HIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,48220.0331638567
-IBRD only,IBD,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,7845.38536226529
-IDA & IBRD total,IBT,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,6094.02389348234
-IDA blend,IDB,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1676.98958404833
-IDA only,IDX,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1417.34865873319
-IDA total,IDA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1502.11784608836
-Late-demographic dividend,LTE,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,12180.2442197888
-Latin America & Caribbean,LCN,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,10681.7330935615
-Latin America & Caribbean (excluding high income),LAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,10070.4433755923
-Latin America & the Caribbean (IDA & IBRD countries),TLA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,10439.5260704558
-Least developed countries: UN classification,LDC,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1307.65017453078
-Low & middle income,LMY,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,5676.38961014368
-Low income,LIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,894.622389496696
-Lower middle income,LMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,2413.66026325337
-Middle East & North Africa,MEA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,8561.88648477206
-Middle East & North Africa (excluding high income),MNA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,3821.57895660603
-Middle East & North Africa (IDA & IBRD countries),TMN,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,3827.11624026457
-Middle income,MIC,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,6266.77743233869
-North America,NAC,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,78675.4809268757
-Not classified,INX,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,NaN
-OECD members,OED,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,46280.5806131269
-Other small states,OSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,16459.9661871969
-Pacific island small states,PSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,4194.68736938507
-Post-demographic dividend,PST,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,53464.0015221955
-Pre-demographic dividend,PRE,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1466.18967475136
-Small states,SST,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,14884.7569105337
-South Asia,SAS,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,2308.71977654436
-South Asia (IDA & IBRD),TSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,2308.71977654436
-Sub-Saharan Africa,SSF,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1636.80874120826
-Sub-Saharan Africa (excluding high income),SSA,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1635.24211286661
-Sub-Saharan Africa (IDA & IBRD countries),TSS,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,1636.80874120826
-Upper middle income,UMC,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,10461.75261677
-World,WLD,GDP per capita (current US$),NY.GDP.PCAP.CD,2023,13138.3275456864
