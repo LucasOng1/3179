@@ -54,3 +54,7 @@
 #vis3_parent {
     display: flex;
 }
+
+#references {
+    color: rgb(110, 110, 110)
+}
