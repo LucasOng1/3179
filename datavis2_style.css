@@ -1,0 +1,56 @@
+#main_container {
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: rgb(176, 176, 176);
+}
+
+#content {
+    padding-left: 3%;
+    padding-right:3%;
+    padding-bottom: 1px;
+    background-color: rgb(228, 248, 236);
+}
+
+#vis1_text {
+    display: flex;
+    width: 45%;
+    padding-right: 5%;
+}
+
+#vis1_parent {
+    display: flex;
+}
+
+#vis1 {
+    width: 50%;
+}
+#vis2_text {
+    width: 45%;
+    padding-right: 5%;
+}
+
+#vis2_parent {
+    display: flex;
+}
+
+#vis2 {
+    width: 50%;
+    height:350px;
+    /* padding-left: 10px;
+    padding-right: 10px; */
+}
+
+#vis3 {
+    width: 30%;
+}
+
+#vis3_text {
+    width: 45%;
+    padding-right: 5%;
+}
+
+#vis3_parent {
+    display: flex;
+}

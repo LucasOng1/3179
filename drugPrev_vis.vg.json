@@ -1,0 +1,23 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 80,
+    "height": 100,
+    "title": {"text": "Drug use prevalence per continent (2022)"},
+    "data": {
+      "url": "https://raw.githubusercontent.com/LucasOng1/3179/refs/heads/main/drug_prevalence_long.csv",
+      "format": {"type": "csv"}
+    },
+    "transform": [
+      {"calculate": "(datum['Measurement'] == 'Percentage')?datum['Reading']:null", "as": "Normalised"},
+      {"filter": "datum['Normalised'] !== null"},
+      {"calculate": "(datum['Region or subregion'] == 'Global'?1:0)", "as": "sortingNum"}
+    ],
+    "mark": {
+      "type": "arc", "tooltip": true
+    },
+    "encoding": {
+        "facet": {"field": "Region or subregion", "type": "nominal", "columns": 3, "title": "Continent", "sort": {"field": "sortingNum", "order": "ascending"}},
+        "theta": {"field": "Normalised", "type": "quantitative", "title": "This region's population (Percent)"},
+        "color": {"field": "Drug Type", "type": "nominal"}
+      }
+  }

@@ -1,0 +1,61 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": "container",
+    "height": "container",
+    "title": {"text": "GDP per capita (US$) of each country"},
+    "data": {
+      "url": "https://raw.githubusercontent.com/LucasOng1/3179/refs/heads/main/gdp_filtered.csv",
+      "format": {"type": "csv"}
+    },
+    "params": [
+      {
+        "name": "Country_selection",
+        "select": {
+          "type": "point",
+          "fields": ["Country Name"]
+        },
+        "bind": "legend"
+      }
+    ],
+    "transform": [
+      {"filter": "datum['GDP'] !== 'NaN'"},
+      {"calculate": "parseFloat(datum['GDP'])", "as": "GDP_float"},
+      {
+        "filter": "datum['Country Name'] == 'United States' || datum['Country Name'] == 'China' || datum['Country Name'] == 'Germany' || datum['Country Name'] == 'United Kingdom' || datum['Country Name'] == 'France' || datum['Country Name'] == 'Japan' || datum['Country Name'] == 'India' || datum['Country Name'] == 'Russia' || datum['Country Name'] == 'Brazil' || datum['Country Name'] == 'Canada' || datum['Country Name'] == 'Italy' || datum['Country Name'] == 'Australia' || datum['Country Name'] == 'South Korea' || datum['Country Name'] == 'Spain' || datum['Country Name'] == 'Mexico' || datum['Country Name'] == 'Netherlands' || datum['Country Name'] == 'Saudi Arabia' || datum['Country Name'] == 'Turkey' || datum['Country Name'] == 'Switzerland' || datum['Country Name'] == 'Singapore'"
+      },
+  
+      {
+        "sort": [{"field": "GDP_float", "order": "descending"}],
+        "window": [{"op": "rank", "as": "GDP_rank"}],
+        "groupby": ["Year"]
+      }
+    ],
+    "mark": {
+      "type": "line",
+      "point": false
+    },
+    "encoding": {
+          "x": {"field": "Year", "timeUnit": "binnedutcyear"},
+          "y": {"field": "GDP_rank", "type": "ordinal", "title": "GDP Ranking"},
+          "order": {"field": "Country Name", "sort": "descending"},
+          "color": {
+            "field": "Country Name", "type": "nominal", "scale": {"range": [
+                          "#1E90FF", "#E31A1C", "#008000", "#6A3D9A", "#FF7F00", "#000000",
+                          "#FFD700", "#87CEEB", "#FB9A99", "#98FB98", "#CAB2D6", "#FDBF6F",
+                          "#B3B3B3", "#F0E68C", "#800000", "#FF83FA", "#FF1493", "#0000FF",
+                          "#36648B", "#00CED1", "#00FF00", "#9ACD32", "#FFFF00", "#8B4500", "#A52A2A"
+                      ]}
+          },
+          "tooltip": [
+            {"field": "Country Name", "type": "nominal", "title": "Country Name"},
+            {"field": "GDP", "type": "quantitative", "title": "GDP per capita (US$)"},
+            {"field": "GDP_rank", "type": "ordinal", "title": "GDP ranking"}
+          ],
+          "opacity": {
+            "condition": {
+              "param": "Country_selection", "value": 1
+            },
+            "value": 0.2
+          }
+      }
+  }
