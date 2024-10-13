@@ -1,23 +1,73 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 80,
-    "height": 100,
-    "title": {"text": "Drug use prevalence per continent (2022)"},
-    "data": {
-      "url": "https://raw.githubusercontent.com/LucasOng1/3179/refs/heads/main/drug_prevalence_long.csv",
-      "format": {"type": "csv"}
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": "container",
+  "height": 400,
+  "title": {
+    "text": "Drug use prevalence per continent (2022)",
+    "fontSize": 20
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/LucasOng1/3179/refs/heads/main/drug_prevalence_long.csv",
+    "format": {"type": "csv"}
+  },
+  "params": [
+    {
+      "name": "Drug_selection",
+      "select": {"type": "point", "fields": ["Drug Type"], "on": "click"},
+      "bind": "legend",
+      "value": []
+    }
+  ],
+  "transform": [
+    {
+      "calculate": "(datum['Measurement'] == 'Percentage')?datum['Reading']:null",
+      "as": "Normalised"
     },
-    "transform": [
-      {"calculate": "(datum['Measurement'] == 'Percentage')?datum['Reading']:null", "as": "Normalised"},
-      {"filter": "datum['Normalised'] !== null"},
-      {"calculate": "(datum['Region or subregion'] == 'Global'?1:0)", "as": "sortingNum"}
-    ],
-    "mark": {
-      "type": "arc", "tooltip": true
-    },
-    "encoding": {
-        "facet": {"field": "Region or subregion", "type": "nominal", "columns": 3, "title": "Continent", "sort": {"field": "sortingNum", "order": "ascending"}},
-        "theta": {"field": "Normalised", "type": "quantitative", "title": "This region's population (Percent)"},
-        "color": {"field": "Drug Type", "type": "nominal"}
+    {"filter": "datum['Normalised'] !== null"},
+    {
+      "filter": {
+        "param": "Drug_selection"
       }
+    },
+    {
+      "calculate": "(datum['Region or subregion'] == 'Global'?1:0)",
+      "as": "sortingNum"
+    }
+  ],
+  "mark": {"type": "bar", "tooltip": true},
+  "encoding": {
+    "x": {
+      "field": "Region or subregion",
+      "type": "nominal",
+      "title": "Continent",
+      "sort": {"field": "sortingNum", "order": "ascending"}
+    },
+    "y": {
+      "field": "Normalised",
+      "type": "quantitative",
+      "title": "Population (%)"
+    },
+    "color": {
+      "field": "Drug Type",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Amphetamines and prescription",
+          "Cannabis",
+          "Cocaine",
+          "Ecstasy",
+          "Opiates",
+          "Opioids"
+        ],
+        "range": [
+          "#1167fa",
+          "#3b9bf5",
+          "#a14f2a",
+          "#fa7d23",
+          "#636363",
+          "#969696"
+        ]
+      }
+    }
   }
+}
